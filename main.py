@@ -17,7 +17,7 @@ def get_num_words(text):
 def get_letter_count(text):
         lowered_text = text.lower()
         letter_list = []
-        return print(words)
+        return print()
 
        
 
